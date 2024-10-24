@@ -4,7 +4,7 @@
 I'm documenting my C/C++ learning journey in this repository. It is made public so that it may also be of help to those learning the language just like myself.
 
 ### Learning materials
-I'm learning the language from various online sources. Since I'm using a Windows machine and Visual Studio Code as an IDE, I setup my developing environment following the instructions in this [YouTube video](https://www.youtube.com/watch?v=DMWD7wfhgNY). 
+I'm learning the language from various online sources. Since I'm using a Windows machine and Visual Studio Code as an IDE, I setup my developing environment following the instructions in this [YouTube video](https://www.youtube.com/watch?v=DMWD7wfhgNY). Refer to the [learning resources](https://github.com/pkx8326/learning_C_and_C_plus_plus/tree/main/0_learning_resources) folder for more learning materials. 
 
 The day I'm writing this is October 24, 2024 and that video is already 1 year old, but the information is still up-to-date and very helpful. I'll create an increasingly long list of learning material in a separate text file in this repository. 
 
