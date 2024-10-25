@@ -3,11 +3,11 @@ This set of code demonstrates how to declare variables of different types in the
 
 ### Program manual
 This program just shows the declared variables' values on the terminal screen and then shows their types afterwards with the ```cout << typeid(var).name()``` code, when ```var``` is the delcared variable names. The variable types shown on the terminal will be abbreviated as the following:
-- ```int``` &rarr ```i```
-- ```float``` &rarr ```f```
-- ```double``` &rarr ```d```
-- ```char``` &rarr ```c```
-- ```bool``` &rarr ```b```
+- ```int``` &rarr; ```i```
+- ```float``` &rarr; ```f```
+- ```double``` &rarr; ```d```
+- ```char``` &rarr; ```c```
+- ```bool``` &rarr; ```b```
 
 These variables are strictly of C++ <b>built-in<\b> types. The <b>user-defined<\b> types will be discussed later in a different repository.
 
