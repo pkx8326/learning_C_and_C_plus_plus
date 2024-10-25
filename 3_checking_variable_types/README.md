@@ -9,7 +9,7 @@ This program just shows the declared variables' values on the terminal screen an
 - ```char``` &rarr; ```c```
 - ```bool``` &rarr; ```b```
 
-These variables are strictly of C++ <b>built-in<\b> types. The <b>user-defined<\b> types will be discussed later in a different repository.
+These variables are strictly of C++ **built-in** types. The **user-defined** types will be discussed later in a different repository.
 
 ### Code structure
 Because this is still a very simple program to demonstrate variable declaration and variable type identification, all the code are contained in the main function stored in the ```main.cpp``` file.
